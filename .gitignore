@@ -1,0 +1,5 @@
+vibe-context/
+.env*
+
+_site/
+.local-preview-server.cjs
