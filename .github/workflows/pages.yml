@@ -32,6 +32,7 @@ jobs:
           mkdir -p _site/data
           cp index.html _site/index.html
           cp data/books.js _site/data/books.js
+          cp data/ebooks.js _site/data/ebooks.js
           touch _site/.nojekyll
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v5
