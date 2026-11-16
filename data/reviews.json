@@ -1,0 +1,80 @@
+[
+  {
+    "themes": [
+      "마음·성장",
+      "과학·미래"
+    ],
+    "publisher": "필로틱",
+    "url": "https://lib.goe.go.kr/gglec/board/view.do?board_idx=201890&manage_idx=327&menu_idx=201",
+    "source": "경기도교육청 DLS 독서서평단",
+    "tags": [
+      "뇌",
+      "몸",
+      "정서",
+      "회복",
+      "건강"
+    ],
+    "categories": [
+      "자연과학"
+    ],
+    "id": "dls-2026-001",
+    "title": "완벽한 원시인: 10만 년을 되돌려 되찾는 뇌 설계도",
+    "author": "자청",
+    "summary": "현대인의 생활 습관과 뇌·몸의 관계를 살피며, 햇볕 쬐기와 움직임, 휴식 등 일상에서 시도할 회복 방법을 제안하는 책입니다.",
+    "sectors": [
+      "의약계열"
+    ],
+    "year": "2026"
+  },
+  {
+    "themes": [
+      "마음·성장"
+    ],
+    "publisher": "윌마",
+    "url": "https://lib.goe.go.kr/gglec/board/view.do?board_idx=203200&manage_idx=327&menu_idx=201",
+    "source": "경기도교육청 DLS 독서서평단",
+    "tags": [
+      "종교",
+      "철학",
+      "마음챙김",
+      "스트레스"
+    ],
+    "categories": [
+      "인문과학"
+    ],
+    "id": "dls-2026-002",
+    "title": "부처님 말씀대로 살아보니: 인생이 가벼워지는 15가지 불교 수업",
+    "author": "토니 페르난도",
+    "summary": "정신과 의사의 임상 사례를 바탕으로 감정을 받아들이고 스트레스를 다루는 마음챙김과 명상 방법을 소개합니다.",
+    "sectors": [
+      "인문계열"
+    ],
+    "year": "2026"
+  },
+  {
+    "themes": [
+      "읽기·배움",
+      "예술·문화"
+    ],
+    "publisher": "아르테",
+    "url": "https://lib.goe.go.kr/gglec/board/view.do?board_idx=203814&manage_idx=327&menu_idx=201",
+    "source": "경기도교육청 DLS 독서서평단",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책"
+    ],
+    "categories": [
+      "인문과학"
+    ],
+    "id": "dls-2026-003",
+    "title": "언어의 본질",
+    "author": "이마이 무쓰미, 아키타 기미",
+    "summary": "언어와 글쓰기, 독서가 어떻게 의미를 만들고 생각을 전달하는지 살펴보는 언어 교양서입니다.",
+    "sectors": [
+      "인문계열"
+    ],
+    "year": "2026"
+  }
+]

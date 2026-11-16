@@ -34,6 +34,9 @@ jobs:
           cp data/books.js _site/data/books.js
           cp data/ebooks.js _site/data/ebooks.js
           cp data/holdings.json _site/data/holdings.json
+          cp data/career.json _site/data/career.json
+          cp data/curriculum.json _site/data/curriculum.json
+          cp data/reviews.json _site/data/reviews.json
           touch _site/.nojekyll
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v5
