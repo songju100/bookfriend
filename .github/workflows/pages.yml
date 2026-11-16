@@ -33,6 +33,7 @@ jobs:
           cp index.html _site/index.html
           cp data/books.js _site/data/books.js
           cp data/ebooks.js _site/data/ebooks.js
+          cp data/holdings.json _site/data/holdings.json
           touch _site/.nojekyll
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v5
