@@ -1,13 +1,1912 @@
 [
   {
-    "themes": [
-      "마음·성장",
-      "과학·미래"
-    ],
-    "publisher": "필로틱",
-    "url": "https://lib.goe.go.kr/gglec/board/view.do?board_idx=201890&manage_idx=327&menu_idx=201",
-    "source": "경기도교육청 DLS 독서서평단",
+    "id": "dls-2026-10-01",
+    "title": "기묘한 세계사의 미스터리",
+    "author": "기묘한 밤",
+    "publisher": "믹스커피",
+    "year": "2026",
+    "summary": "",
     "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-02",
+    "title": "마리아 지뷜라 메리안",
+    "author": "베르트 판더루머르 외",
+    "publisher": "문학수첩",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-03",
+    "title": "미식가의 메뉴판",
+    "author": "나탈리 쿡",
+    "publisher": "교보문고",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-04",
+    "title": "벌거벗은 세계사: 라이벌편",
+    "author": "tvn<벌거벗 은세계사> 제작팀 외",
+    "publisher": "교보문고",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-05",
+    "title": "십대에게 들려주는 어른 김장하",
+    "author": "김주완",
+    "publisher": "내일을 여는책",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-06",
+    "title": "위대한 패배자",
+    "author": "볼프 슈나이너",
+    "publisher": "을유 문화사",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-07",
+    "title": "읽는 여성의 역사",
+    "author": "최현미",
+    "publisher": "어크로스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-08",
+    "title": "조선 500년의 이상한 선택들",
+    "author": "박신철",
+    "publisher": "행복 에너지",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-09",
+    "title": "한 권으로 끝내는 오디세이아",
+    "author": "박용남 (편역)",
+    "publisher": "리미트 리스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-10-10",
+    "title": "한번 시작하면 잠들 수 없는 세계사",
+    "author": "김도형",
+    "publisher": "빅피시",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "역사",
+      "인물",
+      "평전",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 10,
+    "reviewMonths": [
+      10
+    ],
+    "reviewTheme": "역사, 인물, 평전",
+    "reviewThemes": [
+      "역사, 인물, 평전"
+    ]
+  },
+  {
+    "id": "dls-2026-01-01",
+    "title": "나를 돌보기 위해 정리를 시작합니다",
+    "author": "정코 (정리마켓)",
+    "publisher": "비즈니스 북스",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-02",
+    "title": "내가 나를 잘 돌보는 중입니다",
+    "author": "류대성",
+    "publisher": "초록빛 책공방",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-03",
+    "title": "듀얼 브레인",
+    "author": "이선 몰릭",
+    "publisher": "상상 스퀘어",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-04",
+    "title": "렛뎀 이론",
+    "author": "멜 로빈스",
+    "publisher": "비지니스 북스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-05",
+    "title": "성공한 사람들의 20가지 시간관리 습관",
+    "author": "백미르",
+    "publisher": "다온길",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-06",
+    "title": "영감의 공간",
+    "author": "김겨울 외",
+    "publisher": "세미콜론",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-07",
+    "title": "우울과 불안을 이기는 작은 습관들",
+    "author": "임아영",
+    "publisher": "초록북스",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-08",
+    "title": "인생에 달리기가 필요한 시간",
+    "author": "권은주",
+    "publisher": "트랙원",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-09",
+    "title": "초가공식품",
+    "author": "크리스 반 툴레켄",
+    "publisher": "웅진지식 하우스",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-01-10",
+    "title": "태도는 카피가 안 된다",
+    "author": "김을호",
+    "publisher": "힘찬북스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가정",
+      "취미",
+      "습관",
+      "실용",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 1,
+    "reviewMonths": [
+      1
+    ],
+    "reviewTheme": "가정, 취미, 습관, 실용",
+    "reviewThemes": [
+      "가정, 취미, 습관, 실용"
+    ]
+  },
+  {
+    "id": "dls-2026-02-01",
+    "title": "가짜 쌍둥이",
+    "author": "알프레도 고 메스 세르다",
+    "publisher": "풀빛미디어",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-02",
+    "title": "고전에게 물어봐!",
+    "author": "강민경, 김태 진, 박은정",
+    "publisher": "파란자전거",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-03",
+    "title": "나나 올리브에게",
+    "author": "루리",
+    "publisher": "문학동네",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-04",
+    "title": "단톡방을 나갔습니다 2",
+    "author": "신은영",
+    "publisher": "소원나무",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-05",
+    "title": "두근두근! 내 인생의 비밀 찾기 1",
+    "author": "성승현",
+    "publisher": "곰세마리",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-06",
+    "title": "어린이 마음 수업",
+    "author": "김소연 김우람",
+    "publisher": "메가스터디 북스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-07",
+    "title": "이루의 세상",
+    "author": "정설아",
+    "publisher": "사회평론 주니어",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-08",
+    "title": "자개장 할머니",
+    "author": "안효림",
+    "publisher": "소원나무",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-09",
+    "title": "컵라면은 절대로 불어선 안 돼",
+    "author": "김지완",
+    "publisher": "문학동네",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-02-10",
+    "title": "케이크 좀 먹으면 어때?",
+    "author": "마리아 레린",
+    "publisher": "오유아이",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "가족",
+      "심리",
+      "관계",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "초등 고학년",
+    "reviewMonth": 2,
+    "reviewMonths": [
+      2
+    ],
+    "reviewTheme": "가족, 심리, 관계",
+    "reviewThemes": [
+      "가족, 심리, 관계"
+    ]
+  },
+  {
+    "id": "dls-2026-03-01",
+    "title": "AI 2026",
+    "author": "김덕진",
+    "publisher": "스마트 북스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-02",
+    "title": "경제를 일으킨 결정적 질문",
+    "author": "박정현",
+    "publisher": "다른",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-03",
+    "title": "나의 첫 금융공부",
+    "author": "이완배",
+    "publisher": "북트리거",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-04",
+    "title": "드디어 만나는 경제학 수업",
+    "author": "앨프리드 밀, 미셸 케이건",
+    "publisher": "현대지성",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-05",
+    "title": "명상록",
+    "author": "마르쿠스 아 우렐리우스",
+    "publisher": "오아시스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-06",
+    "title": "이토록 사적인 경제학",
+    "author": "최재용",
+    "publisher": "스노우폭 스북스P",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-07",
+    "title": "최소한의 노벨 경제학상",
+    "author": "김나영",
+    "publisher": "가나",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-08",
+    "title": "콘텐츠 설계자",
+    "author": "니콜라스 콜",
+    "publisher": "월북",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-09",
+    "title": "호감의 디테일",
+    "author": "레일 라운즈",
+    "publisher": "윌마",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-03-10",
+    "title": "호모 유니쿠스",
+    "author": "임헌우",
+    "publisher": "빛을여는 책방",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "경제",
+      "경영",
+      "자기계발",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 3,
+    "reviewMonths": [
+      3
+    ],
+    "reviewTheme": "경제, 경영, 자기계발",
+    "reviewThemes": [
+      "경제, 경영, 자기계발"
+    ]
+  },
+  {
+    "id": "dls-2026-04-01",
+    "title": "거의 모든 것의 역사 2.0",
+    "author": "빌 브라이슨",
+    "publisher": "까치",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-02",
+    "title": "과학 재판을 시작합니다",
+    "author": "양지열",
+    "publisher": "다른",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-03",
+    "title": "과학하는 마음",
+    "author": "임지한",
+    "publisher": "제철소",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-04",
+    "title": "나를 발견하는 인류학 수업",
+    "author": "함세정",
+    "publisher": "사계절",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-05",
+    "title": "생각하는 청소년을 위한 화학의 역사",
+    "author": "정완상",
+    "publisher": "성림원 북스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-06",
+    "title": "응! 생물학",
+    "author": "김응빈",
+    "publisher": "창비",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-07",
+    "title": "차별하지 않는다는 착각",
+    "author": "홍성수",
+    "publisher": "어크로스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-08",
+    "title": "코끼리는 암에 걸리지 않는다",
+    "author": "데이비드 B. 아구스",
+    "publisher": "현암사",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-09",
+    "title": "쾌적한 사회의 불쾌함",
+    "author": "구마시로 도 루",
+    "publisher": "생각지도",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-04-10",
+    "title": "평범한 말들의 편가르기, 차별의 말들",
+    "author": "태지원",
+    "publisher": "앤의서재",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "과학",
+      "사회",
+      "공학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 4,
+    "reviewMonths": [
+      4
+    ],
+    "reviewTheme": "과학, 사회, 공학",
+    "reviewThemes": [
+      "과학, 사회, 공학"
+    ]
+  },
+  {
+    "id": "dls-2026-05-01",
+    "title": "21세기 택리지",
+    "author": "권재원",
+    "publisher": "북트리거",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-02",
+    "title": "모든 요일의 여행",
+    "author": "김민철",
+    "publisher": "위즈덤 하우스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-03",
+    "title": "버드걸",
+    "author": "마이아로즈 크레이그",
+    "publisher": "문학동네",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-04",
+    "title": "세계지도 속 환경 이야기",
+    "author": "최원형",
+    "publisher": "블랙피쉬",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-05",
+    "title": "식물의 생김새에는 의미가 있다",
+    "author": "소노이케 긴타케",
+    "publisher": "눌와",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-06",
+    "title": "에너지 기술이 인류를 구할 수 있을까?",
+    "author": "이필렬",
+    "publisher": "다정한 시민",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-07",
+    "title": "우리가 말하지 않는 지구",
+    "author": "김가람",
+    "publisher": "알에이치 코리아",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-08",
+    "title": "지구가 권리를 가지는 날에는",
+    "author": "가치를꿈꾸는 과학교사모임",
+    "publisher": "우리학교",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-09",
+    "title": "탄소시장",
+    "author": "황석태",
+    "publisher": "OJERI BOOKS",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-05-10",
+    "title": "현재를 감각하는 자연 관찰 노트",
+    "author": "존 뮤어 로스",
+    "publisher": "갈라파 고스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "환경",
+      "지리",
+      "생태",
+      "여행",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 5,
+    "reviewMonths": [
+      5
+    ],
+    "reviewTheme": "환경, 지리, 생태, 여행",
+    "reviewThemes": [
+      "환경, 지리, 생태, 여행"
+    ]
+  },
+  {
+    "id": "dls-2026-06-01",
+    "title": "AI 이후의 미래 어떻게 될 것인가",
+    "author": "제이슨 솅커",
+    "publisher": "더페이지",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-02",
+    "title": "AI한테 내 생각을 맡겨도 될까?",
+    "author": "박승억",
+    "publisher": "나무를심 는사람들",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-03",
+    "title": "로봇 시대, 인간의 일",
+    "author": "구본권",
+    "publisher": "어크로스",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-04",
+    "title": "먼저 온 미래",
+    "author": "장강명",
+    "publisher": "동아시아",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-05",
+    "title": "멸망에 투자하세요",
+    "author": "황이경",
+    "publisher": "비룡소",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-06",
+    "title": "사이 인간",
+    "author": "김대식, 김혜연",
+    "publisher": "문학동네",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-07",
+    "title": "어느 날 미래가 도착했다",
+    "author": "우숙영",
+    "publisher": "창비",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-08",
+    "title": "완벽한 원시인: 10만 년을 되돌려 되찾는 뇌 설계도",
+    "author": "자청",
+    "publisher": "필로틱",
+    "year": "2026",
+    "summary": "현대인의 생활 습관과 뇌·몸의 관계를 살피며, 햇볕 쬐기와 움직임, 휴식 등 일상에서 시도할 회복 방법을 제안하는 책입니다.",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서",
       "뇌",
       "몸",
       "정서",
@@ -17,64 +1916,934 @@
     "categories": [
       "자연과학"
     ],
-    "id": "dls-2026-001",
-    "title": "완벽한 원시인: 10만 년을 되돌려 되찾는 뇌 설계도",
-    "author": "자청",
-    "summary": "현대인의 생활 습관과 뇌·몸의 관계를 살피며, 햇볕 쬐기와 움직임, 휴식 등 일상에서 시도할 회복 방법을 제안하는 책입니다.",
     "sectors": [
       "의약계열"
     ],
-    "year": "2026"
+    "themes": [
+      "마음·성장",
+      "과학·미래"
+    ],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
   },
   {
-    "themes": [
-      "마음·성장"
+    "id": "dls-2026-06-09",
+    "title": "인공지능은 생각하지 않는다",
+    "author": "김송규",
+    "publisher": "좋은생각 연구소",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
     ],
-    "publisher": "윌마",
-    "url": "https://lib.goe.go.kr/gglec/board/view.do?board_idx=203200&manage_idx=327&menu_idx=201",
+    "categories": [],
+    "sectors": [],
+    "themes": [],
     "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-06-10",
+    "title": "화씨 451",
+    "author": "레이 브래드 버리",
+    "publisher": "황금가지 (1953)",
+    "year": "2009",
+    "summary": "",
+    "tags": [
+      "진로",
+      "미래",
+      "교육",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 6,
+    "reviewMonths": [
+      6
+    ],
+    "reviewTheme": "진로, 미래, 교육",
+    "reviewThemes": [
+      "진로, 미래, 교육"
+    ]
+  },
+  {
+    "id": "dls-2026-07-01",
+    "title": "2026 테크놀로지 시프트",
+    "author": "전승민",
+    "publisher": "세종",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-02",
+    "title": "AI가 너무 잘해서 문제입니다",
+    "author": "조현수",
+    "publisher": "리마인드",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-03",
+    "title": "가장 평범한 아픔",
+    "author": "김명희",
+    "publisher": "이글루",
+    "year": "2024",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-04",
+    "title": "건강 구독 사회",
+    "author": "정재훈",
+    "publisher": "에피케",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-05",
+    "title": "나의 하루는 병원에서 시작된다",
+    "author": "김민규",
+    "publisher": "설렘",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-06",
+    "title": "사람이 보이는 건축",
+    "author": "방명세",
+    "publisher": "나비의 활주로",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-07",
+    "title": "세상이 그대를 속일지라도",
+    "author": "김상욱",
+    "publisher": "동아시아",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-08",
+    "title": "스트레스 받는 사람들을 위한 니체",
+    "author": "프리드리히 니체",
+    "publisher": "열림원",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-09",
+    "title": "이토록 위대한 몸",
+    "author": "줄리아 엔더스",
+    "publisher": "21세기 북스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-07-10",
+    "title": "인생은 호르몬",
+    "author": "데이비드 JP 필립스",
+    "publisher": "월북",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "의학",
+      "기술",
+      "건강",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 7,
+    "reviewMonths": [
+      7
+    ],
+    "reviewTheme": "의학, 기술, 건강",
+    "reviewThemes": [
+      "의학, 기술, 건강"
+    ]
+  },
+  {
+    "id": "dls-2026-08-01",
+    "title": "너를 아끼며 살아라",
+    "author": "나태주",
+    "publisher": "더블북",
+    "year": "2025",
+    "summary": "",
     "tags": [
       "종교",
       "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-02",
+    "title": "니체와 함께 지적 대화를",
+    "author": "양원근",
+    "publisher": "리미트 리스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-03",
+    "title": "니체의 초월자",
+    "author": "프리드리히 니체",
+    "publisher": "히읏",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-04",
+    "title": "동서양 철학 신박한 정리",
+    "author": "박영규",
+    "publisher": "김영사",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-05",
+    "title": "마음을 읽는 감각",
+    "author": "구범준",
+    "publisher": "세상을바 꾸는시간 15분",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-06",
+    "title": "매우 의심스러운 철학 수업",
+    "author": "움베르토 갈림베르티, 루카 모리",
+    "publisher": "풀빛",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-07",
+    "title": "부처님 말씀대로 살아보니: 인생이 가벼워지는 15가지 불교 수업",
+    "author": "토니 페르난도",
+    "publisher": "윌마",
+    "year": "2026",
+    "summary": "정신과 의사의 임상 사례를 바탕으로 감정을 받아들이고 스트레스를 다루는 마음챙김과 명상 방법을 소개합니다.",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서",
       "마음챙김",
       "스트레스"
     ],
     "categories": [
       "인문과학"
     ],
-    "id": "dls-2026-002",
-    "title": "부처님 말씀대로 살아보니: 인생이 가벼워지는 15가지 불교 수업",
-    "author": "토니 페르난도",
-    "summary": "정신과 의사의 임상 사례를 바탕으로 감정을 받아들이고 스트레스를 다루는 마음챙김과 명상 방법을 소개합니다.",
     "sectors": [
       "인문계열"
     ],
-    "year": "2026"
+    "themes": [
+      "마음·성장"
+    ],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
   },
   {
-    "themes": [
-      "읽기·배움",
-      "예술·문화"
+    "id": "dls-2026-08-08",
+    "title": "세계척학전집 : 훔친 철학편",
+    "author": "이클립스",
+    "publisher": "모티브",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
     ],
-    "publisher": "아르테",
-    "url": "https://lib.goe.go.kr/gglec/board/view.do?board_idx=203814&manage_idx=327&menu_idx=201",
+    "categories": [],
+    "sectors": [],
+    "themes": [],
     "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-09",
+    "title": "어떻게 어른이 되는가",
+    "author": "엄성우",
+    "publisher": "추수밭",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-08-10",
+    "title": "제로 포인트",
+    "author": "슬라보예 지젝",
+    "publisher": "우중몽",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "종교",
+      "철학",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 8,
+    "reviewMonths": [
+      8
+    ],
+    "reviewTheme": "종교, 철학",
+    "reviewThemes": [
+      "종교, 철학"
+    ]
+  },
+  {
+    "id": "dls-2026-09-01",
+    "title": "내 삶을 위한 독서 모임",
+    "author": "김민영",
+    "publisher": "노르웨이 숲",
+    "year": "2025",
+    "summary": "",
     "tags": [
       "언어",
       "글쓰기",
       "독서",
-      "책"
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-02",
+    "title": "독서는 어떻게 나를 바꿨는가",
+    "author": "강승우",
+    "publisher": "북아지트",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-03",
+    "title": "독자 되는 법",
+    "author": "한소범",
+    "publisher": "유유",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-04",
+    "title": "맞춤법 GO!-우리말 만렙 용사를 위한 가이드북",
+    "author": "김남미",
+    "publisher": "북트리거",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-05",
+    "title": "생활 글쓰기",
+    "author": "김혜원",
+    "publisher": "북플랫",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-06",
+    "title": "설득의 언어학",
+    "author": "상드린 쥐페레 외",
+    "publisher": "페이지 2북스",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-07",
+    "title": "소설처럼",
+    "author": "다니엘 페나크",
+    "publisher": "문학과 지성사",
+    "year": "2018",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-08",
+    "title": "쓰는 만큼 내가 된다",
+    "author": "리니",
+    "publisher": "더퀘스트",
+    "year": "2026",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-09",
+    "title": "언어의 본질",
+    "author": "이마이 무쓰미, 아키타 기미",
+    "publisher": "아르테",
+    "year": "2026",
+    "summary": "언어와 글쓰기, 독서가 어떻게 의미를 만들고 생각을 전달하는지 살펴보는 언어 교양서입니다.",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
     ],
     "categories": [
       "인문과학"
     ],
-    "id": "dls-2026-003",
-    "title": "언어의 본질",
-    "author": "이마이 무쓰미, 아키타 기미",
-    "summary": "언어와 글쓰기, 독서가 어떻게 의미를 만들고 생각을 전달하는지 살펴보는 언어 교양서입니다.",
     "sectors": [
       "인문계열"
     ],
-    "year": "2026"
+    "themes": [
+      "읽기·배움",
+      "예술·문화"
+    ],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
+  },
+  {
+    "id": "dls-2026-09-10",
+    "title": "우리가 사랑한 단어들",
+    "author": "신효원",
+    "publisher": "생각지도",
+    "year": "2025",
+    "summary": "",
+    "tags": [
+      "언어",
+      "글쓰기",
+      "독서",
+      "책",
+      "월별 서평도서"
+    ],
+    "categories": [],
+    "sectors": [],
+    "themes": [],
+    "source": "경기도교육청 DLS 독서서평단",
+    "url": "https://lib.goe.go.kr/gglec/board/index.do?manage_idx=315&menu_idx=164",
+    "ageGroup": "고등학생",
+    "reviewMonth": 9,
+    "reviewMonths": [
+      9
+    ],
+    "reviewTheme": "언어, 글쓰기, 독서, 책",
+    "reviewThemes": [
+      "언어, 글쓰기, 독서, 책"
+    ]
   }
 ]
