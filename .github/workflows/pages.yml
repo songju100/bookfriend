@@ -37,6 +37,7 @@ jobs:
           cp data/career.json _site/data/career.json
           cp data/curriculum.json _site/data/curriculum.json
           cp data/reviews.json _site/data/reviews.json
+          cp data/nlcy.json _site/data/nlcy.json
           touch _site/.nojekyll
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v5
